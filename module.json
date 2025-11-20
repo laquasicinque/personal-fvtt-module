@@ -1,6 +1,6 @@
 {
-  "id": "module",
-  "title": "New Module",
+  "id": "naito",
+  "title": "Naito's Module",
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
