@@ -4,16 +4,15 @@
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 13,
     "verified": 13
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Naito",
+      "url": "https://github.com/laquasicinque",
+      "discord": "Naito"
     }
   ],
   "relationships": {
@@ -27,11 +26,6 @@
     "styles/module.css"
   ],
   "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
   ],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
